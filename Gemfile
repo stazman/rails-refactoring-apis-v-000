@@ -51,7 +51,7 @@ end
 # gem 'web-console', '~> 2.0', group: :development
 
 group :development do
-  gem 'web-console', '~> 2.0', group: :development
+  gem 'web-console', group: :development
 end
 
 group :development, :test do
